@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan2</string>
+    <string name="login_title">LOGIN</string>
+    <string name="hint_username">USERNAME</string>
+    <string name="hint_password">PASSWORD</string>
+    <string name="website_url">www.fiqhisyawaro.com</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">DAFTAR</string>
+</resources>
